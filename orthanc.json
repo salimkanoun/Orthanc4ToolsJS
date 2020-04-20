@@ -1,4 +1,6 @@
 {
+      "DicomModalitiesInDatabase" : true,
+      "OrthancPeersInDatabase" : true,
       "DicomWeb": {
             "Enable": true,
             "Root": "/dicom-web/",
