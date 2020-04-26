@@ -1,2 +1,2 @@
-# OrthancDockerQNAP
-Builing Osimis/Orthanc derivated image for QNAP
+# Orthanc4ToolsJS
+Presetting Orthanc Container for OrthancToolsJS
